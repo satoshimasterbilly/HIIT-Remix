@@ -1,0 +1,16 @@
+{
+  "sample_workout": {
+    "date": "2025-08-21",
+    "level": "intermediate",
+    "focus": "mixed",
+    "work_time": 30,
+    "rest_time": 30,
+    "rounds": 5,
+    "exercises": [
+      {
+        "round": 1,
+        "exercises": ["Jumping Jacks", "Push-ups", "Squats", "Plank", "Russian Twists"]
+      }
+    ]
+  }
+}

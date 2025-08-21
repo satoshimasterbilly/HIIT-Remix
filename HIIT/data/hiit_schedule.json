@@ -1,0 +1,283 @@
+{
+  "Thursday": {
+    "date": "2025-08-21",
+    "level": "beginner",
+    "focus": "cardio",
+    "work_time": 20,
+    "rest_time": 40,
+    "rounds": 4,
+    "exercises": [
+      {
+        "round": 1,
+        "exercises": [
+          "Lateral Jumps",
+          "Tuck Jumps",
+          "Tuck Jumps",
+          "Squat Jumps"
+        ]
+      },
+      {
+        "round": 2,
+        "exercises": [
+          "High Knees",
+          "Burpees",
+          "Star Jumps",
+          "Star Jumps"
+        ]
+      },
+      {
+        "round": 3,
+        "exercises": [
+          "Squat Jumps",
+          "Jump Rope",
+          "Speed Skaters",
+          "Running in Place"
+        ]
+      },
+      {
+        "round": 4,
+        "exercises": [
+          "Jump Rope",
+          "Jumping Jacks",
+          "Butt Kickers",
+          "Mountain Climbers"
+        ]
+      }
+    ]
+  },
+  "Friday": {
+    "date": "2025-08-21",
+    "level": "beginner",
+    "focus": "strength",
+    "work_time": 20,
+    "rest_time": 40,
+    "rounds": 4,
+    "exercises": [
+      {
+        "round": 1,
+        "exercises": [
+          "Single Leg Glute Bridges",
+          "Pike Push-ups",
+          "Incline Push-ups",
+          "Plank"
+        ]
+      },
+      {
+        "round": 2,
+        "exercises": [
+          "Push-ups",
+          "Wall Sit",
+          "Push-ups",
+          "Lunges"
+        ]
+      },
+      {
+        "round": 3,
+        "exercises": [
+          "Wall Sit",
+          "Bear Crawl",
+          "Tricep Dips",
+          "Glute Bridges"
+        ]
+      },
+      {
+        "round": 4,
+        "exercises": [
+          "Pike Push-ups",
+          "Incline Push-ups",
+          "Tricep Dips",
+          "Squats"
+        ]
+      }
+    ]
+  },
+  "Saturday": {
+    "date": "2025-08-21",
+    "level": "beginner",
+    "focus": "mixed",
+    "work_time": 20,
+    "rest_time": 40,
+    "rounds": 4,
+    "exercises": [
+      {
+        "round": 1,
+        "exercises": [
+          "Bicycle Crunches",
+          "Calf Raises",
+          "Single Leg Glute Bridges",
+          "Crunches"
+        ]
+      },
+      {
+        "round": 2,
+        "exercises": [
+          "Jumping Jacks",
+          "Plank",
+          "Pike Push-ups",
+          "Jump Rope"
+        ]
+      },
+      {
+        "round": 3,
+        "exercises": [
+          "Dead Bug",
+          "Bear Crawl",
+          "Hollow Body Hold",
+          "V-ups"
+        ]
+      },
+      {
+        "round": 4,
+        "exercises": [
+          "Bird Dog",
+          "Burpees",
+          "Leg Raises",
+          "Speed Skaters"
+        ]
+      }
+    ]
+  },
+  "Sunday": {
+    "date": "2025-08-24",
+    "type": "rest",
+    "activity": "Rest Day - Light stretching or yoga recommended"
+  },
+  "Monday": {
+    "date": "2025-08-21",
+    "level": "beginner",
+    "focus": "cardio",
+    "work_time": 20,
+    "rest_time": 40,
+    "rounds": 4,
+    "exercises": [
+      {
+        "round": 1,
+        "exercises": [
+          "Tuck Jumps",
+          "Squat Jumps",
+          "Lateral Jumps",
+          "Jumping Jacks"
+        ]
+      },
+      {
+        "round": 2,
+        "exercises": [
+          "Jump Rope",
+          "Star Jumps",
+          "Burpees",
+          "Burpees"
+        ]
+      },
+      {
+        "round": 3,
+        "exercises": [
+          "High Knees",
+          "Star Jumps",
+          "Mountain Climbers",
+          "Tuck Jumps"
+        ]
+      },
+      {
+        "round": 4,
+        "exercises": [
+          "Running in Place",
+          "Speed Skaters",
+          "Jumping Jacks",
+          "High Knees"
+        ]
+      }
+    ]
+  },
+  "Tuesday": {
+    "date": "2025-08-21",
+    "level": "beginner",
+    "focus": "strength",
+    "work_time": 20,
+    "rest_time": 40,
+    "rounds": 4,
+    "exercises": [
+      {
+        "round": 1,
+        "exercises": [
+          "Plank",
+          "Calf Raises",
+          "Squats",
+          "Incline Push-ups"
+        ]
+      },
+      {
+        "round": 2,
+        "exercises": [
+          "Single Leg Glute Bridges",
+          "Bear Crawl",
+          "Squats",
+          "Push-ups"
+        ]
+      },
+      {
+        "round": 3,
+        "exercises": [
+          "Glute Bridges",
+          "Wall Sit",
+          "Single Leg Glute Bridges",
+          "Glute Bridges"
+        ]
+      },
+      {
+        "round": 4,
+        "exercises": [
+          "Bear Crawl",
+          "Pike Push-ups",
+          "Calf Raises",
+          "Lunges"
+        ]
+      }
+    ]
+  },
+  "Wednesday": {
+    "date": "2025-08-21",
+    "level": "beginner",
+    "focus": "mixed",
+    "work_time": 20,
+    "rest_time": 40,
+    "rounds": 4,
+    "exercises": [
+      {
+        "round": 1,
+        "exercises": [
+          "Running in Place",
+          "Speed Skaters",
+          "Incline Push-ups",
+          "Tricep Dips"
+        ]
+      },
+      {
+        "round": 2,
+        "exercises": [
+          "Star Jumps",
+          "Push-ups",
+          "Hollow Body Hold",
+          "Russian Twists"
+        ]
+      },
+      {
+        "round": 3,
+        "exercises": [
+          "Butt Kickers",
+          "Crunches",
+          "Bird Dog",
+          "Lunges"
+        ]
+      },
+      {
+        "round": 4,
+        "exercises": [
+          "V-ups",
+          "Flutter Kicks",
+          "Plank",
+          "Jump Rope"
+        ]
+      }
+    ]
+  }
+}
